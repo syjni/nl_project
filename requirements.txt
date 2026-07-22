@@ -1,0 +1,38 @@
+# Testing
+pytest
+pytest-xdist
+
+# BPE tokenization
+subword-nmt
+
+# MeCab engine (bundles libmecab)
+mecab
+
+# Japanese dictionary
+ipadic
+
+# Korean dictionary
+mecab-ko-dic
+
+# Converting Korean Hanja and Japanese to a common medium (Traditional Chinese)
+opencc
+
+# Progress bars
+tqdm
+
+# Hanja cache monitoring (optional)
+matplotlib
+
+# Neural machine translation framework
+torch<2.6
+fairseq
+
+# Hanja conversion via hanjaro.juntong.or.kr (Kim et al. 2020)
+requests
+beautifulsoup4
+
+# Download AI Hub dataset from Google Drive
+gdown
+
+# Used by fairseq
+tensorboardX
